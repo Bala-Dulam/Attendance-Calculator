@@ -1,8 +1,7 @@
 # Enhanced Attendance Calculator
   
-This is a project built with [Chef](https://chef.convex.dev) using [Convex](https://convex.dev) as its backend.
- You can find docs about Chef with useful information like how to deploy to production [here](https://docs.convex.dev/chef).
-  
+This is a project built  using [Convex](https://convex.dev) as its backend.
+
 This project is connected to the Convex deployment named [`vibrant-bee-425`](https://dashboard.convex.dev/d/vibrant-bee-425).
   
 ## Project structure
